@@ -36,8 +36,8 @@ This Bash script allows you to retrieve certificate details from F5 BIG-IP devic
 ## Output
 The script generates a CSV file **(f5_certificates.csv)** with the following columns:
 
-Big-IP Hostname
-F5 Device
-Certificate Name
-Common Name
-Expiration Date
+- Big-IP Hostname
+- F5 Device
+- Certificate Name
+- Common Name
+- Expiration Date
