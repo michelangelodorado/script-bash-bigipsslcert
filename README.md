@@ -1,6 +1,6 @@
 # F5 BIG-IP Certificate Details using bash (REST API)
 
-This Bash script allows you to retrieve certificate details from F5 BIG-IP devices and save the information in a CSV file. It also includes the Big-IP hostname in the output.
+This Bash script allows you to retrieve certificate details from F5 BIG-IP devices and save the information in a CSV file.
 
 ## Prerequisites
 
