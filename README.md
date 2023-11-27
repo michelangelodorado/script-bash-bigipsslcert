@@ -33,7 +33,7 @@ This Bash script allows you to retrieve certificate details from F5 BIG-IP devic
    ./getdevicecert.sh
    ```
 
-##Output
+## Output
 The script generates a CSV file (f5_certificates.csv) with the following columns:
 
 Big-IP Hostname
