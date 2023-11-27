@@ -16,7 +16,7 @@ This Bash script allows you to retrieve certificate details from F5 BIG-IP devic
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
    ```
-2. Create an inventory file (f5_inventory.txt) with the following format:
+2. Create an inventory file **(f5_inventory.txt)** with the following format:
    ```bash
    <F5_IP> <F5_USER> <F5_PASS>
    <F5_IP> <F5_USER> <F5_PASS>
