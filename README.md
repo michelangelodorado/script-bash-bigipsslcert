@@ -39,3 +39,17 @@ The script generates a CSV file **(f5_certificates.csv)** with the following col
 - Certificate Name
 - Common Name
 - Expiration Date
+
+
+|Big-IP Hostname|F5 Device                    |Certificate Name|Common Name                                  |Expiration Date         |
+|---------------|-----------------------------|----------------|---------------------------------------------|------------------------|
+|ip-10-1-1-5.us-west-2.compute.internal|10.1.1.5                     |/Common/ca-bundle.crt|Starfield Services Root Certificate Authority|Dec 31 23:59:59 2029 GMT|
+|ip-10-1-1-5.us-west-2.compute.internal|10.1.1.5                     |/Common/default.crt|localhost.localdomain                        |Nov 24 14:18:00 2033 GMT|
+|ip-10-1-1-5.us-west-2.compute.internal|10.1.1.5                     |/Common/f5-ca-bundle.crt|Entrust Root Certification Authority - G2    |Dec  7 17:55:54 2030 GMT|
+|ip-10-1-1-5.us-west-2.compute.internal|10.1.1.5                     |/Common/f5-irule.crt|support.f5.com                               |Jul 18 21:00:13 2027 GMT|
+|ip-10-1-1-5.us-west-2.compute.internal|10.1.1.5                     |/Common/f5test.com_self-signed_2016.crt|www.testcet.org                              |Nov 30 16:09:24 2023 GMT|
+|ip-10-1-1-4.us-west-2.compute.internal|10.1.1.4                     |/Common/ca-bundle.crt|Starfield Services Root Certificate Authority|Dec 31 23:59:59 2029 GMT|
+|ip-10-1-1-4.us-west-2.compute.internal|10.1.1.4                     |/Common/default.crt|localhost.localdomain                        |Nov 24 14:30:10 2033 GMT|
+|ip-10-1-1-4.us-west-2.compute.internal|10.1.1.4                     |/Common/f5-ca-bundle.crt|Entrust Root Certification Authority - G2    |Dec  7 17:55:54 2030 GMT|
+|ip-10-1-1-4.us-west-2.compute.internal|10.1.1.4                     |/Common/f5-irule.crt|support.f5.com                               |Jul 18 21:00:13 2027 GMT|
+|ip-10-1-1-4.us-west-2.compute.internal|10.1.1.4                     |/Common/f5_api_com.crt|YLPYX-OEVJN-SJZVW-OQBHZ-RDXLXUM              |Aug 21 21:30:36 2024 GMT|
