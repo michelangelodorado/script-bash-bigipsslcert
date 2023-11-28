@@ -24,11 +24,11 @@ This Bash script allows you to retrieve certificate details from F5 BIG-IP devic
    ```
 3. Make the script executable:
    ```bash
-   chmod +x f5_certificate_script.sh
+   chmod +x getcertdetails.sh
    ```
 4. Run the script and enter the credentials (assumption is that credentials is the same for all BIG-IP devices in the inventory)
    ```bash
-   ./getdevicecert.sh
+   ./getcertdetails.sh
    ```
 
 ## Output
