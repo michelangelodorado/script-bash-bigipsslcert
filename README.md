@@ -40,6 +40,7 @@ The script generates a CSV file **(f5_certificates.csv)** with the following col
 - Common Name
 - Expiration Date
 
+**Sample Table:**
 
 |Big-IP Hostname|F5 Device                    |Certificate Name|Common Name                                  |Expiration Date         |
 |---------------|-----------------------------|----------------|---------------------------------------------|------------------------|
